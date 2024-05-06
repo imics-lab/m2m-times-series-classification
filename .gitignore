@@ -1,9 +1,16 @@
 *
 
 !data/
+!data/gesture
+!data/gesture/processed
+!data/gesture/raw
+!data/
 !results/
 !scripts/
+!src/
+
 
 !*.py
 !*.md
-
+!*.txt
+!*.csv
