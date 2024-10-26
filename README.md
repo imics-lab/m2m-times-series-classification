@@ -56,5 +56,14 @@ Configuration settings in src/cfg.py
     - run stacking
     - compare all five
 
+<!-- CITATION -->
 ## Citation
-See paper Effective Modeling of Frequent Label Transitions in Time Series
+```bibtex
+@inproceedings{katrompas2024many,
+  title={Many-to-Many Prediction for Effective Modeling of Frequent Label Transitions in Time Series},
+  author={Katrompas, Alexander and Metsis, Vangelis},
+  booktitle={Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments},
+  pages={265--272},
+  year={2024}
+}
+```
