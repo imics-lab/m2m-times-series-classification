@@ -1,4 +1,4 @@
-# Effective Modeling of Frequent Label Transitions in Time Series
+# Many-to-Many Prediction for Effective Modeling of Frequent Label Transitions in Time Series
 
 ## Description
 Code from the paper titled "Effective Modeling of Frequent Label
