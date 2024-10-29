@@ -1,8 +1,7 @@
 # Many-to-Many Prediction for Effective Modeling of Frequent Label Transitions in Time Series
 
 ## Description
-Code from the paper titled "Effective Modeling of Frequent Label
-Transitions in Time Series" in review.
+Code from the paper titled "Many-to-Many Prediction for Effective Modeling of Frequent Label Transitions in Time Series" published at PETRA 2024 conference.
 
 ## Abstract.
 Time series classification is vital in areas
